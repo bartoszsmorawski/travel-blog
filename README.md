@@ -9,7 +9,7 @@ https://bartoszsmorawski.github.io/travel-blog/
 
 ## General description:
 
-This page was created as homework to practice creating a form.
+This page was created as homework to practice creating a form and buttons.
 
 The site is fully about travel to Egypt. This website was created to prepare travelers for this country on how to prepare and behave. The site was created in such a way as to show my programming skills.
 
@@ -32,7 +32,7 @@ The files include folders such as : **css, js, images** and **index.html**.
 
 This folder is divided into **9 files** : **article.css, form.css, header.css, section.css, style.css, table.css, navigation.css, footer.css, button.css**. Each of them steels individual elements on the page.
 
-## JavaScript:CH
+## JavaScript:
 
 In this folder there is a **script.js** file in which **an algorithm** is written that **change background-color**, and to **change title**. This code I write to practise new skills.
 
