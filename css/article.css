@@ -1,0 +1,23 @@
+.article__style {
+  padding: 15px 15px 15px 15px;
+  margin: 20px auto;
+}
+
+.article_header {
+  color: burlywood;
+  font-weight: bold;
+  font-size: 28px;
+}
+
+.article__center {
+  text-align: center;
+}
+
+.article__border {
+  border: 2px solid rgba(222, 184, 135, 0.36);
+}
+
+.article__style---box {
+  padding: 15px 15px 15px 15px;
+  box-shadow: 2px 2px 8px #ccc;
+}

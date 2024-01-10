@@ -1,0 +1,36 @@
+.table__style {
+  font-family: "Lato", sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.table__cell {
+  border: 2px solid #ccc;
+  padding: 20px;
+  text-align: center;
+}
+
+.table__container {
+  overflow-x: auto;
+}
+
+.table__caption {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 33px;
+  font-weight: bolder;
+}
+
+.table__header {
+  background-color: rgba(222, 184, 135, 0.178);
+  color: black;
+}
+
+.tableRow:nth-child(even) {
+  background-color: #eeeeee80;
+  color: black;
+}
+
+.tableRow:hover {
+  background-color: #ddd;
+}

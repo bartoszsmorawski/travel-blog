@@ -1,0 +1,20 @@
+.footer__style {
+  text-align: center;
+  color: black;
+  padding: 10px;
+  background-color: rgba(222, 184, 135, 0.36);
+  font-size: 20px;
+}
+
+.footer__link---contact {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+.footer__link---downloadPicture {
+  color: black;
+  text-decoration: none;
+  padding: 5px 10px;
+  font-weight: bold;
+}

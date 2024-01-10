@@ -1,0 +1,30 @@
+.navigation__style{
+  list-style-type: none;
+  padding-left: 20px;
+  font-size: 25px;
+  border: 2px solid burlywood;
+}
+
+.navigation__item {
+  margin: 10px, 0;
+}
+
+.navigation__link {
+  color: burlywood;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.navigation__link:focus {
+  outline: 2px solid currentColor;
+}
+
+.navigation__link:hover {
+  color: rgba(222, 184, 135, 0.516);
+  border-bottom: 1px solid;
+  outline: none;
+}
+
+.navigation__link:active {
+  color: rgba(222, 184, 135, 0.212);
+}
